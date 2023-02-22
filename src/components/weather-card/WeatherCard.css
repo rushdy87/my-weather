@@ -1,0 +1,26 @@
+.weather-card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 50%;
+  background: #262626;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.35);
+}
+.weather-card_heading {
+  margin: 5px;
+  padding: 6px;
+  width: 30%;
+  font-size: 1.2rem;
+  color: #fff;
+  border-bottom: 1px solid #d3cece;
+}
+
+.weather-card_title {
+  padding: 6px;
+  font-size: 1rem;
+  color: #fff;
+  margin: 10px;
+}
+
+.weather-card_title span {
+  padding-left: 20px;
+}
