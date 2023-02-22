@@ -1,0 +1,12 @@
+.locatin-button {
+  display: block;
+  margin: 10px auto;
+  padding: 20px 40px;
+  font-size: 17px;
+  background: #262626;
+  border: 0;
+  color: #fff;
+}
+.locatin-button:hover {
+  color: #b1b1b1;
+}

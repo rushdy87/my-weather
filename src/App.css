@@ -1,5 +1,11 @@
 * {
   margin: 0;
   padding: 0;
+  border: none;
   box-sizing: border-box;
+}
+
+.app-container {
+  background: #a07f7f;
+  height: 100vh;
 }

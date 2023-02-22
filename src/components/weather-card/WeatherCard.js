@@ -4,6 +4,7 @@ import './WeatherCard.css';
 
 const WeatherCard = () => {
   const { weather } = useContext(weatherContext);
+
   if (weather) {
     return (
       <div className="weather-card">
